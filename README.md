@@ -1,3 +1,17 @@
+## Coursera - R Programming - Assignment 2 - 
+## Student: Travis E. Lipstein
+## ---------------------REFERENCES-------------------------------
+## 1. Peng R. D. (2015). Coursera - R Programing - Programming 
+##    Assignment 2: Lexical Scoping.  Retrieved from 
+##    <https://class.coursera.org/rprog-031/human_grading/view/
+##      courses/975105/assessments/3/submissions>
+## ----------------------PREFACE---------------------------------
+The assignment description below comes from the course materials 
+provided by the instructor Peng [1].  A separate document entitled
+'cachematrix.R' was created in response to these instructions.  The 
+R script contains two functions that fulfil the objectives outlined
+below.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
